@@ -1,0 +1,1 @@
+/usr/local/bin/aws ses send-email --from timexo.app@gmail.com --destination file://dest.json --message file://promo2.json
